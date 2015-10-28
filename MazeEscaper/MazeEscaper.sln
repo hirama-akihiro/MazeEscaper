@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeEscaper", "MazeEscaper\MazeEscaper\MazeEscaper.csproj", "{2E427DA0-279C-48A9-839E-C1037C57EC66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeEscaperContent", "MazeEscaper\MazeEscaperContent\MazeEscaperContent.contentproj", "{2B87B91E-6490-4980-BBC8-0CC0F014B6C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E427DA0-279C-48A9-839E-C1037C57EC66}.Debug|x86.ActiveCfg = Debug|x86
+		{2E427DA0-279C-48A9-839E-C1037C57EC66}.Debug|x86.Build.0 = Debug|x86
+		{2E427DA0-279C-48A9-839E-C1037C57EC66}.Release|x86.ActiveCfg = Release|x86
+		{2E427DA0-279C-48A9-839E-C1037C57EC66}.Release|x86.Build.0 = Release|x86
+		{2B87B91E-6490-4980-BBC8-0CC0F014B6C9}.Debug|x86.ActiveCfg = Debug|x86
+		{2B87B91E-6490-4980-BBC8-0CC0F014B6C9}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
